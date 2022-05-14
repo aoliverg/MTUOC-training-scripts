@@ -6,15 +6,15 @@ authors: false
 cite: false
 
 train-sets:
-  - train.sp.de
-  - train.sp.it
+  - train.sp.en
+  - train.sp.es
   
-#guided-alignment: train.sp.de.it.align
+#guided-alignment: train.sp.en.es.align
 
 # Validation set options
 valid-sets:
-  - val.sp.de
-  - val.sp.it
+  - val.sp.en
+  - val.sp.es
   
 valid-freq: 5000
 valid-metrics:
